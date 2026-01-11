@@ -171,5 +171,5 @@ graph.add_edge("searching_the_user",END)
 
 app=graph.compile()
 
-result=app.invoke({"message":"find 1 repository on ai agent"})
+result=app.invoke({""})
 print(result["answer"])
