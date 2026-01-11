@@ -1,14 +1,9 @@
-Say less 😤
-Here’s the **same README**, but **properly formatted as code (Markdown)** so you can **directly paste it into `README.md`**.
 
-Just copy–paste. No thinking. No fixing.
-
-````md
 # 🚀 GitHub AI Agent (v1)
 
-A **graph-based GitHub AI Agent** that understands user intent and intelligently searches **repositories** or **users** using the GitHub API.
+A graph-based GitHub AI Agent that understands user intent and intelligently searches repositories or users using the GitHub API.
 
-This is **version 1** — simple, functional, and intentionally minimal.  
+This is version 1 — simple, functional, and intentionally minimal.  
 Built as a foundation for more advanced AI-agent workflows.
 
 ---
